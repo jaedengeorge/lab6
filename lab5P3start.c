@@ -3,6 +3,7 @@
 #include <string.h>
 
 int main() {
+  printf("Github!");
   char input[256];
   int letterCount[26] = {
       0};  // Array to store the count of each letter initialized to zeros
